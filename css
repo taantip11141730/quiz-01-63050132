@@ -1,0 +1,327 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.homep {
+  border: 2px solid #e4eceb;
+  padding: 10px;
+  height: 90px;
+  box-shadow: 13px 3px 10px rgba(0, 0, 0, 0.3);
+  background-color: rgb(21, 221, 31);
+}
+.text {
+  color: rgb(150, 21, 128);
+  position: absolute;
+  top: 35px;
+  left: 130px;
+  margin-left: 50px;
+}
+.t1 {
+  color: rgb(9, 170, 199);
+  position: absolute;
+  top: 35px;
+  right: 700px;
+  cursor: url(hand.cur), pointer;
+}
+.t1:hover {
+  color: rgb(202, 26, 173);
+}
+.t2 {
+  color: beige;
+  position: absolute;
+  top: 35px;
+  right: 580px;
+  cursor: url(hand.cur), pointer;
+}
+.t2:hover {
+  color: orangered;
+}
+.t3 {
+  color: beige;
+  position: absolute;
+  top: 35px;
+  right: 430px;
+  cursor: url(hand.cur), pointer;
+}
+.t3:hover {
+  color: orangered;
+}
+.t4 {
+  color: beige;
+  position: absolute;
+  top: 38px;
+  right: 300px;
+  cursor: url(hand.cur), pointer;
+}
+.icon {
+  position: absolute;
+  top: 30px;
+  right: 170px;
+  cursor: url(hand.cur), pointer;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  height: 35px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 15px;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.img img {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+  margin-left: 100px;
+  border-radius: 50%;
+}
+.about {
+  width: 1250px;
+  margin: 0.3rem auto;
+  height: 2500px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  background-color: rgb(92, 230, 87);
+}
+.about img {
+  height: auto;
+  width: 1250;
+}
+.tourism {
+  position: absolute;
+  font-size: 20px;
+  color: brown;
+  display: block;
+  text-align: center;
+  height: 100%;
+  width: 500px;
+  top: 120px;
+  right: 110px;
+  z-index: 999;
+}
+.btn {
+  width: 120px;
+  height: 30px;
+  border: none;
+  background-color: white;
+  color: brown;
+  border-radius: 20px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: rgb(41, 44, 209);
+  color: white;
+  transform: scaleY(1.1);
+  border-radius: 20px;
+}
+.aboutp {
+  width: 900px;
+  margin: 4rem auto;
+  height: 600px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+  /*overflow: hidden;*/
+  position: relative;
+  background-color: rgb(184, 38, 152);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.tag {
+  position: absolute;
+  z-index: 999;
+  top: -2rem;
+  left: -30px;
+}
+.tag img {
+  height: auto;
+  width: 80px;
+  border-radius: 50%;
+}
+.aboutp h2 {
+  margin-top: 45px;
+  color: beige;
+}
+.aboutp h4 {
+  margin-left: 90px;
+  margin-top: 20px;
+  margin-right: 90px;
+  color: beige;
+}
+.img1 img {
+  width: 120px;
+  height: auto;
+  margin: 15px;
+  margin-top: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px #0c0c0c;
+}
+.product h2 {
+  color: beige;
+  text-align: center;
+}
+.japan {
+  width: 300px;
+  margin: 2rem auto;
+  margin-left: 80px;
+  height: 300px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+  background-color: rgb(188, 188, 212);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.japan img {
+  height: auto;
+  width: 300px;
+}
+.japan:hover {
+  cursor: pointer;
+  color: rgb(247, 24, 24);
+  opacity: 0.6;
+}
+
+.singapoer {
+  width: 300px;
+  margin: 2rem auto;
+  margin-left: 465px;
+  margin-top: -331px;
+  height: 300px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+  background-color: rgb(23, 196, 196);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.singapoer img {
+  height: auto;
+  width: 300px;
+}
+.singapoer:hover {
+  cursor: pointer;
+  color: rgb(72, 24, 247);
+  opacity: 0.6;
+}
+.korea {
+  width: 300px;
+  margin: 2rem auto;
+  margin-left: 850px;
+  margin-top: -331px;
+  height: 300px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+  background-color: rgb(36, 36, 168);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.korea img {
+  height: auto;
+  width: 300px;
+}
+.korea:hover {
+  cursor: pointer;
+  color: rgb(247, 24, 24);
+  opacity: 0.6;
+}
+.canada {
+  width: 300px;
+  margin: 2rem auto;
+  margin-left: 850px;
+  height: 300px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+  background-color: rgb(188, 188, 212);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.canada img {
+  height: auto;
+  width: 300px;
+}
+.canada:hover {
+  cursor: pointer;
+  color: rgb(247, 24, 24);
+  opacity: 0.6;
+}
+.neterlands {
+  width: 300px;
+  margin: 2rem auto;
+  margin-left: 465px;
+  margin-top: -331px;
+  height: 300px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+  background-color: rgb(186, 197, 32);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.neterlands img {
+  height: auto;
+  width: 300px;
+}
+.neterlands:hover {
+  cursor: pointer;
+  color: rgb(247, 24, 24);
+  opacity: 0.6;
+}
+.paris {
+  width: 300px;
+  margin: 2rem auto;
+  margin-top: -330px;
+  margin-left: 80px;
+  height: 300px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+  background-color: rgb(188, 188, 212);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.paris img {
+  height: auto;
+  width: 300px;
+}
+.paris:hover {
+  cursor: pointer;
+  color: rgb(247, 24, 24);
+  opacity: 0.6;
+}

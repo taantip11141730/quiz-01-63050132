@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="work.css" />
+    <title>Travel with 63050132</title>
+  </head>
+  <body>
+    <div class="homep">
+      <div class="img">
+        <img
+          src="https://drive.google.com/file/d/1_xL0QzU35S8UG0whX-dpog260fFiKX1J/view?usp=drive_link"
+          alt="plane"
+        />
+      </div>
+      <div class="text">
+        <h2>TRAVEL</h2>
+      </div>
+      <div class="t1">
+        <h3>HOME</h3>
+      </div>
+      <div class="t2">
+        <h3>ABOUT</h3>
+      </div>
+      <div class="t3">
+        <h3>PRODUCT</h3>
+      </div>
+      <div class="t4">
+        <h4>Contact</h4>
+      </div>
+      <div class="icon">
+        <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        />
+        <a
+          href="https://www.facebook.com/"
+          target="_blank"
+          class="fa fa-facebook"
+        ></a>
+
+        <a
+          href="https://twitter.com/i/flow/login?redirect_after_login=%2Flogin%3Flang%3Dth"
+          target="_blank"
+          class="fa fa-twitter"
+        ></a>
+        <a
+          href="https://www.instagram.com/"
+          target="_blank"
+          class="fa fa-instagram"
+        ></a>
+      </div>
+      <div class="about">
+        <img
+          src="https://drive.google.com/file/d/1ZAyVndLeS8r0EsWsUqRWTIaJ02F2R0an/view?usp=drive_link"
+          alt="travel"
+        />
+        <div class="tourism">
+          <p>
+            When it comes to tourism, it is the act of traveling to explore new
+            things and experience various adventures that can enrich knowledge,
+            enjoyment, challenges, and create significant memories. Tourism
+            comes in various forms, including domestic and international travel,
+            conventional sightseeing, and adventurous journeys. It can be
+            categorized into several types based on the nature and purpose of
+            the trip.
+          </p>
+          <br />
+          <button class="btn">Contact us</button>
+        </div>
+        <div class="aboutp">
+          <div class="tag">
+            <img
+              src="https://images.unsplash.com/photo-1599930113854-d6d7fd521f10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+              alt="passport"
+            />
+          </div>
+          <br />
+
+          <h2>ABOUT US</h2>
+          <h4>
+            Our tourism company is an organization or business that focuses on
+            providing services in the field of tourism. We have the capability
+            to design and offer various tour packages, hotel reservations,
+            accommodations, as well as manage and promote different tours for
+            our customers. Our company aims to assist and enhance the travel
+            experience for our clients, ensuring it is both impressive and
+            efficient, so that they can enjoy their journey and explore various
+            destinations as they expect. <br />
+            <br />
+            In addition to that, our tourism company can provide advice on
+            tourist destinations, amenities, and interesting activities at each
+            location, enabling our customers to plan their travels according to
+            their preferences and interests. We also offer services tailored to
+            group tours, business travel, and conferences, providing a diverse
+            range of options to meet our customers' specific travel needs and
+            desires.
+          </h4>
+          <div class="img1">
+            <img
+              src="https://images.unsplash.com/photo-1537824598505-99ee03483384?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60"
+              alt="sea"
+            />
+            <img
+              src="https://images.unsplash.com/photo-1519160558534-579f5106e43f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+              alt="forest"
+            />
+            <img
+              src="https://images.unsplash.com/photo-1540741283650-38a15bbde41f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+              alt="lake"
+            />
+          </div>
+        </div>
+        <div class="product">
+          <br /><br />
+          <h2>PRODUCT</h2>
+          <br />
+          <div class="China">
+            <a href="https://www.qualityexpress.co.th/tour/China?keyword=&country=China&Airline=All&Airport=All&page=1&view=list" target="_blank">
+              <img
+                src="https://drive.google.com/file/d/1J5xvkNYq0V-YvPHDaMLD7pf4RDZ-6DU4/view?usp=drive_link"
+                alt="China"
+              />
+            </a>
+            <p style="font-size: 13px">
+              Japan : Finding accommodation options in Japan can be an exciting
+              and diverse experience, ranging from traditional Japanese inns
+              (Ryokan), guesthouses, hostels, or even joining Japan tours in
+              cities like Kyoto, Nara, Hokkaido, and more.
+            </p>
+          </div>
+          <div class="singapoer">
+            <a
+              href="https://www.khobfahtravel.com/package-tour/package-singapore/?gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B_1SDOME6KffPhqwMTQQ-_iPEacMo9PziA4txSR4gCBD9ZNbKYKjA8aAoQJEALw_wcB"
+              target="_blank"
+            >
+              <img
+                src="https://drive.google.com/file/d/1euiPsJLVg8kP97ttbncoOd3hUCThb1Dm/view?usp=sharing"
+                alt="singapoer"
+              />
+            </a>
+            <p style="font-size: 13px">
+              Singpoer : Accommodation in Singapore either a hotel or a
+              first-class resort and accommodation that fits many budgets. There
+              are also rooms close to major attractions. and tours in Singapore
+              There are various options for traveling and exploring the city's
+              attractions. Singapore tours are often divided into different
+              areas of interest.
+            </p>
+          </div>
+          <div class="korea">
+            <a
+              href="https://www.nexttripholiday.com/korea/?gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B-C7VZC07USIRlzFrUAUUGK_QBDvD-X9X5A59dkk2lwVwWsnrl8sg8aAtKtEALw_wcB"
+              target="_blank"
+            >
+              <img
+                src="https://drive.google.com/file/d/1eb-9irarbPW3rSupUCpqqC_R0z5-oBlh/view?usp=sharing"
+                alt="korea"
+            /></a>
+            <p style="font-size: 13px">
+              Korea : Korea tours are an excellent choice for travelers seeking
+              to experience impressive travel experiences in South Korea. This
+              country offers a wide array of fascinating attractions, ranging
+              from stunning natural landscapes to captivating cultural wonders,
+              delicious cuisine, and bustling cities that should not be missed.
+            </p>
+          </div>
+          <div class="canada">
+            <a
+              href="https://www.travelzeed.com/product?des=13&gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B8dF8eeGgDezvEvC4_0GE8AEkwipHZkOScTPOR2FSz_GfyhaQqZrz0aAvLXEALw_wcB"
+              target="_blank"
+            >
+              <img
+                src="https://drive.google.com/file/d/1RAv-Q_d98KWhdSNQe9cLHxvCWplM9Tx0/view?usp=drive_link"
+                alt="canada"
+            /></a>
+            <p style="font-size: 13px">
+              Canada : Canadian tours often provide travelers with unforgettable
+              experiences both in cities and regions. You will have the
+              opportunity to explore beautiful wildlife parks, visit stunning
+              waterfalls, venture into snowy regions during winter, and learn
+              about the culture of various ethnic groups and communities in the
+              country.
+            </p>
+          </div>
+          <div class="neterlands">
+            <a
+              href="https://www.mushroomtravel.com/tour/outbound/netherlands?md=ad&gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B9g53lnBdhajqZIU38u_mUBNFrwXM4WERRb4I8rdeRE50__neV7ufQaAq1hEALw_wcB"
+              target="_blank"
+            >
+              <img
+                src="https://drive.google.com/file/d/1N5HBjbK5vc_0jZmrLmjslnZKmu2_u_2e/view?usp=drive_link"
+                alt="neterlands"
+            /></a>
+            <p style="font-size: 13px">
+              Neterlands :A tour of the Netherlands may allow you to experience
+              the breathtaking nature and stunning landscapes, such as visiting
+              snow-covered greenhouses in interesting amusement parks, exploring
+              picturesque regions with beautiful natural scenery, and visiting
+              beautiful seaside areas. Additionally, there are tours that focus
+              on the culture and history of the Netherlands.
+            </p>
+          </div>
+          <div class="paris">
+            <a
+              href="https://www.qualityexpress.co.th/tour/Europe?keyword=&country=Europe&Airport=All&page=1&view=list"
+              target="_blank"
+            >
+              <img
+                src="https://drive.google.com/file/d/12eDfazPZBAEBa6PUjtsV8oQm13MF64Fv/view?usp=sharing"
+                alt="paris"
+            /></a>
+            <p style="font-size: 13px">
+              Paris :Paris is interesting for tourists who want a romantic and
+              culturally significant atmosphere. since the ancient culture
+              Beautiful sights, delicious food and a hub for European art and
+              culture. In addition, the main attractions in the city are
+              explored. Including visiting and taking pictures at the Eiffel
+              Tower.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
